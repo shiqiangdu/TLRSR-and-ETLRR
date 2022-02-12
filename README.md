@@ -1,5 +1,5 @@
-# TLRSR
-Matlab code for tensor low-rank and sparse representation (TLRSR).
+# TLRSR and ETLRR
+Matlab code for tensor low-rank and sparse representation (TLRSR) and Enhanced Tensor Low-Rank Representation (ETLRR).
 There are two folders here, one for face clustering and the other for image restoration.
 Demo_clustering_toy.m for synthetic tensor data;
 Demo_clustering_frdue.m for human face clustering on frdue dataset;
